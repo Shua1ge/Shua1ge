@@ -8,17 +8,14 @@
 ## 🤖 About Me
 
 - 🎓 Ph.D. in Robotics
-- 🦿 Working on **Legged Robot Navigation and Embodied AI**
 - 🔭 Research interests:
   - LiDAR-Inertial SLAM
   - Exploration and Autonomous Navigation
   - Vision-Language-Action Models
-  - Legged Robot Intelligence
 
 - 🛠 Main tools:
   - ROS2
   - C++ / Python
-  - Isaac Sim
   - Unitree Go2
   - PyTorch
 
@@ -34,17 +31,12 @@
 - MID-360 LiDAR
 - FAST-LIO / LIO systems
 - Traversability-aware exploration
-- Autonomous navigation in:
-  - caves
-  - lunar-like environments
-  - rough terrains
 
 
 ### 🧠 Embodied AI
 
 Interested in:
 
-- Vision-Language-Action Models
 - Vision-Language Navigation
 - Robot Foundation Models
 - Real-time robot intelligence
