@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Tony
+<h1 align="center">
+  👋 Hi, I'm TianHao
+</h1>
 
 <p align="center">
   <b>Robotics Engineer · SLAM Researcher · Embodied AI Enthusiast</b>
@@ -12,12 +14,6 @@
   - LiDAR-Inertial SLAM
   - Exploration and Autonomous Navigation
   - Vision-Language-Action Models
-
-- 🛠 Main tools:
-  - ROS2
-  - C++ / Python
-  - Unitree Go2
-  - PyTorch
 
 - 🎯 Goal:
   Building intelligent robots that can understand, navigate and interact with the real world.
