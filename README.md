@@ -3,17 +3,14 @@
 </h1>
 
 <p align="center">
-  <b>Robotics Engineer · SLAM Researcher · Embodied AI Enthusiast</b>
+  <b>SLAM Researcher · Embodied AI Enthusiast</b>
 </p>
 
 
 ## 🤖 About Me
-
-- 🎓 Ph.D. in Robotics
 - 🔭 Research interests:
   - LiDAR-Inertial SLAM
   - Exploration and Autonomous Navigation
-  - Vision-Language-Action Models
 
 - 🎯 Goal:
   Building intelligent robots that can understand, navigate and interact with the real world.
@@ -22,7 +19,6 @@
 ## 🚀 Current Research
 
 ### 🦿 Legged Robot Navigation
-
 - Unitree Go2 platform
 - MID-360 LiDAR
 - FAST-LIO / LIO systems
@@ -32,7 +28,6 @@
 ### 🧠 Embodied AI
 
 Interested in:
-
 - Vision-Language Navigation
 - Robot Foundation Models
 - Real-time robot intelligence
