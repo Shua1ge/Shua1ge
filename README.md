@@ -12,10 +12,6 @@
   - LiDAR-Inertial SLAM
   - Exploration and Autonomous Navigation
 
-- 🎯 Goal:
-  Building intelligent robots that can understand, navigate and interact with the real world.
-
-
 ## 🚀 Current Research
 
 ### 🦿 Legged Robot Navigation
@@ -23,14 +19,6 @@
 - MID-360 LiDAR
 - FAST-LIO / LIO systems
 - Traversability-aware exploration
-
-
-### 🧠 Embodied AI
-
-Interested in:
-- Vision-Language Navigation
-- Robot Foundation Models
-- Real-time robot intelligence
 
 
 ## 🔧 Technical Stack
