@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>SLAM Researcher · Embodied AI Enthusiast</b>
+  <b>SLAMer</b>
 </p>
 
 
