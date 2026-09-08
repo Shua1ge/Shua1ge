@@ -22,15 +22,9 @@
 
 
 ## 🔧 Technical Stack
-
-### Robotics
-
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
-
-### AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia)
 
